@@ -1,1 +1,3 @@
 # 16-bit-CORDIC-Computer
+
+The purpose of this lab was to implement CORDIC (COordinate Rotation DIgital Computer) using FPGA. CORDIC is a method for calculating a variety of functions including trigonometric and hyperbolic. In this Project, we were interested in calculating the value of sine and cosine function by giving their corresponding angle. The CORDIC core is a parameterized Verilog RTL code for a 16 bit fixed point CORDIC. 
